@@ -1,0 +1,237 @@
+[
+  {
+    "category_name": "Pemrograman Komputer",
+    "keywords": [
+      "pemrograman",
+      "python",
+      "java",
+      "kode",
+      "algoritma",
+      "software",
+      "developer",
+      "javascript",
+      "c++",
+      "c#",
+      "html",
+      "css",
+      "php",
+      "ruby",
+      "swift",
+      "kotlin",
+      "typescript",
+      "sql",
+      "database",
+      "debugging",
+      "framework",
+      "backend",
+      "frontend",
+      "web",
+      "mobile",
+      "app",
+      "data structures"
+    ]
+  },
+  {
+    "category_name": "Fiksi / Sastra",
+    "keywords": [
+      "novel",
+      "cerpen",
+      "fiksi",
+      "puisi",
+      "roman",
+      "drama",
+      "sastra",
+      "antologi",
+      "kumpulan cerita",
+      "dongeng",
+      "legenda",
+      "mitologi",
+      "fantasi",
+      "sci-fi",
+      "thriller",
+      "misteri",
+      "petualangan"
+    ]
+  },
+  {
+    "category_name": "Sains & Matematika",
+    "keywords": [
+      "sains",
+      "matematika",
+      "fisika",
+      "kimia",
+      "biologi",
+      "astronomi",
+      "kalkulus",
+      "statistik",
+      "aljabar",
+      "geometri",
+      "logika",
+      "ilmiah",
+      "penelitian",
+      "eksperimen",
+      "teori",
+      "rumus",
+      "evolusi",
+      "genetika",
+      "ekologi"
+    ]
+  },
+  {
+    "category_name": "Sejarah & Biografi",
+    "keywords": [
+      "sejarah",
+      "biografi",
+      "peradaban",
+      "kerajaan",
+      "tokoh",
+      "memoar",
+      "arkeologi",
+      "kuno",
+      "abad pertengahan",
+      "modern",
+      "perang",
+      "revolusi",
+      "kemerdekaan",
+      "pahlawan",
+      "kehidupan"
+    ]
+  },
+  {
+    "category_name": "Bisnis & Ekonomi",
+    "keywords": [
+      "bisnis",
+      "ekonomi",
+      "manajemen",
+      "investasi",
+      "pemasaran",
+      "keuangan",
+      "wirausaha",
+      "akuntansi",
+      "strategi",
+      "pasar",
+      "saham",
+      "globalisasi",
+      "entrepreneur",
+      "startup",
+      "kepemimpinan",
+      "negosiasi"
+    ]
+  },
+  {
+    "category_name": "Pengembangan Diri",
+    "keywords": [
+      "motivasi",
+      "inspirasi",
+      "produktifitas",
+      "kebiasaan",
+      "psikologi",
+      "sukses",
+      "self-help",
+      "mindfulness",
+      "kebahagiaan",
+      "komunikasi",
+      "karir",
+      "tujuan",
+      "potensi diri",
+      "kesehatan mental",
+      "berani",
+      "tidak",
+      "disukai"
+    ]
+  },
+  {
+    "category_name": "Seni & Desain",
+    "keywords": [
+      "seni",
+      "desain",
+      "lukisan",
+      "patung",
+      "fotografi",
+      "musik",
+      "arsitektur",
+      "grafis",
+      "mode",
+      "kriya",
+      "estetika",
+      "kreativitas",
+      "seniman",
+      "pertunjukan"
+    ]
+  },
+  {
+    "category_name": "Kesehatan & Kebugaran",
+    "keywords": [
+      "kesehatan",
+      "kebugaran",
+      "nutrisi",
+      "diet",
+      "olahraga",
+      "medis",
+      "penyakit",
+      "pengobatan",
+      "yoga",
+      "resep sehat",
+      "gizi",
+      "anatomi",
+      "fisiologi"
+    ]
+  },
+  {
+    "category_name": "Pengetahuan Sosial",
+    "keywords": ["retorika", "politik", "ekonomi", "sosiologi", "berbicara"]
+  },
+  {
+    "category_name": "Travel & Pariwisata",
+    "keywords": [
+      "travel",
+      "pariwisata",
+      "panduan perjalanan",
+      "destinasi",
+      "petualangan",
+      "wisata",
+      "budaya",
+      "kuliner",
+      "backpacker",
+      "liburan",
+      "negara",
+      "kota"
+    ]
+  },
+  {
+    "category_name": "Bahasa",
+    "keywords": [
+      "Bahasa",
+      "Bahasa Indonesia",
+      "Bahasa Inggris",
+      "Bahasa Jepang",
+      "Bahasa Mandarin",
+      "Bahasa Sunda",
+      "Bahasa Sunda",
+      "Bahasa Sunda",
+      "Bahasa Sunda",
+      "Bahasa Sunda"
+    ]
+  },
+  {
+    "category_name": "Anak-Anak",
+    "keywords": [
+      "anak",
+      "dongeng",
+      "cerita anak",
+      "bergambar",
+      "mewarnai",
+      "pendidikan anak",
+      "balita",
+      "remaja awal"
+    ]
+  },
+  {
+    "category_name": "01- Pengembangan Diri",
+    "keywords": ["jika", "kita", "tak", "pernah", "jadi", "apa-apa"]
+  },
+  {
+    "category_name": "01- Pengembangan Diri",
+    "keywords": ["berani", "tidak", "disukai"]
+  }
+]
