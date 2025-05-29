@@ -19,7 +19,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/cover-book-recognition.git
+git clone https://github.com/destyasti/cover-book-recognition.git
 cd cover-book-recognition
 ```
 
