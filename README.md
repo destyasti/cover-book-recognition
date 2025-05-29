@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Menjalankan Aplikasi
+## Menjalankan Aplikasi
 
 Jalankan aplikasi dengan perintah berikut:
 
