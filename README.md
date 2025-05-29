@@ -46,10 +46,10 @@ pip install -r requirements.txt
 Jalankan aplikasi dengan perintah berikut:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run Cover_Book_App.py
 ```
 
-> File utama `streamlit_app.py` akan secara otomatis membuka halaman `Welcome`.
+> File utama `Cover_Book_App.py` akan secara otomatis membuka halaman `Welcome`.
 
 ---
 
