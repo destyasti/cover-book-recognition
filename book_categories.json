@@ -1,6 +1,6 @@
 [
   {
-    "category_name": "Pemrograman Komputer",
+    "category_name": "01-Pemrograman Komputer",
     "keywords": [
       "pemrograman",
       "python",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "category_name": "Fiksi / Sastra",
+    "category_name": "02-Fiksi / Sastra",
     "keywords": [
       "novel",
       "cerpen",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "category_name": "Sains & Matematika",
+    "category_name": "03-Sains & Matematika",
     "keywords": [
       "sains",
       "matematika",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "category_name": "Sejarah & Biografi",
+    "category_name": "04-Sejarah & Biografi",
     "keywords": [
       "sejarah",
       "biografi",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "category_name": "Bisnis & Ekonomi",
+    "category_name": "05-Bisnis & Ekonomi",
     "keywords": [
       "bisnis",
       "ekonomi",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "category_name": "Pengembangan Diri",
+    "category_name": "06-Pengembangan Diri",
     "keywords": [
       "motivasi",
       "inspirasi",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "category_name": "Seni & Desain",
+    "category_name": "07-Seni & Desain",
     "keywords": [
       "seni",
       "desain",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "category_name": "Kesehatan & Kebugaran",
+    "category_name": "08-Kesehatan & Kebugaran",
     "keywords": [
       "kesehatan",
       "kebugaran",
@@ -178,11 +178,11 @@
     ]
   },
   {
-    "category_name": "Pengetahuan Sosial",
+    "category_name": "09-Pengetahuan Sosial",
     "keywords": ["retorika", "politik", "ekonomi", "sosiologi", "berbicara"]
   },
   {
-    "category_name": "Travel & Pariwisata",
+    "category_name": "10-Travel & Pariwisata",
     "keywords": [
       "travel",
       "pariwisata",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "category_name": "Bahasa",
+    "category_name": "11-Bahasa",
     "keywords": [
       "Bahasa",
       "Bahasa Indonesia",
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "category_name": "Anak-Anak",
+    "category_name": "12-Anak-Anak",
     "keywords": [
       "anak",
       "dongeng",
@@ -227,11 +227,11 @@
     ]
   },
   {
-    "category_name": "01- Pengembangan Diri",
+    "category_name": "13-Pengembangan Diri",
     "keywords": ["jika", "kita", "tak", "pernah", "jadi", "apa-apa"]
   },
   {
-    "category_name": "01- Pengembangan Diri",
+    "category_name": "13- Pengembangan Diri",
     "keywords": ["berani", "tidak", "disukai"]
   }
 ]
