@@ -1,6 +1,7 @@
 [
   {
     "category_name": "01-Pemrograman Komputer",
+    "rack_id": "RK01",
     "keywords": [
       "pemrograman",
       "python",
@@ -33,6 +34,7 @@
   },
   {
     "category_name": "02-Fiksi / Sastra",
+    "rack_id": "RK02",
     "keywords": [
       "novel",
       "cerpen",
@@ -55,6 +57,7 @@
   },
   {
     "category_name": "03-Sains & Matematika",
+    "rack_id": "RK03",
     "keywords": [
       "sains",
       "matematika",
@@ -79,6 +82,7 @@
   },
   {
     "category_name": "04-Sejarah & Biografi",
+    "rack_id": "RK04",
     "keywords": [
       "sejarah",
       "biografi",
@@ -99,6 +103,7 @@
   },
   {
     "category_name": "05-Bisnis & Ekonomi",
+    "rack_id": "RK05",
     "keywords": [
       "bisnis",
       "ekonomi",
@@ -120,6 +125,7 @@
   },
   {
     "category_name": "06-Pengembangan Diri",
+    "rack_id": "RK06",
     "keywords": [
       "motivasi",
       "inspirasi",
@@ -142,6 +148,7 @@
   },
   {
     "category_name": "07-Seni & Desain",
+    "rack_id": "RK07",
     "keywords": [
       "seni",
       "desain",
@@ -161,6 +168,7 @@
   },
   {
     "category_name": "08-Kesehatan & Kebugaran",
+    "rack_id": "RK08",
     "keywords": [
       "kesehatan",
       "kebugaran",
@@ -179,10 +187,12 @@
   },
   {
     "category_name": "09-Pengetahuan Sosial",
+    "rack_id": "RK09",
     "keywords": ["retorika", "politik", "ekonomi", "sosiologi", "berbicara"]
   },
   {
     "category_name": "10-Travel & Pariwisata",
+    "rack_id": "RK10",
     "keywords": [
       "travel",
       "pariwisata",
@@ -200,6 +210,7 @@
   },
   {
     "category_name": "11-Bahasa",
+    "rack_id": "RK11",
     "keywords": [
       "Bahasa",
       "Bahasa Indonesia",
@@ -215,6 +226,7 @@
   },
   {
     "category_name": "12-Anak-Anak",
+    "rack_id": "RK12",
     "keywords": [
       "anak",
       "dongeng",
@@ -227,11 +239,13 @@
     ]
   },
   {
-    "category_name": "13-Pengembangan Diri",
-    "keywords": ["jika", "kita", "tak", "pernah", "jadi", "apa-apa"]
+    "category_name": "06-Pengembangan Diri",
+    "rack_id": "RK06",
+    "keywords": ["jika", "kita", "tak", "pernah", "jadi", "apa-apa", "alvin", "syahrin"]
   },
   {
-    "category_name": "13- Pengembangan Diri",
+    "category_name": "06- Pengembangan Diri",
+    "rack_id": "RK06",
     "keywords": ["berani", "tidak", "disukai"]
   }
 ]
