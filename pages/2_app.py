@@ -38,7 +38,7 @@ if 'captured_frame' not in st.session_state:
     st.session_state.captured_frame = None
 
 # UI Awal
-st.title("🚀 Ayo Mulai Scan Bukumu")
+st.title("🔎 Ayo Mulai Cari Rak Bukumu")
 st.write('Untuk memulainya, tekan tombol **"Aktifkan Kamera"** di bawah! 📸')
 
 # Tombol Aktifkan Kamera

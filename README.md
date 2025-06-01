@@ -61,8 +61,8 @@ cover-book-recognition/
 │   ├── 1_welcome.py         # Halaman panduan penggunaan
 │   └── 2_app.py             # Halaman utama untuk scan buku
 ├── book_categories.json     # Dataset kategori buku
+├── Cover_Book_App.py        # Entry point aplikasi
 ├── ocr_utils.py             # Fungsi utilitas untuk OCR
-├── streamlit_app.py         # Entry point aplikasi
 ├── requirements.txt         # Daftar dependensi
 └── README.md                # Dokumentasi proyek
 ```
